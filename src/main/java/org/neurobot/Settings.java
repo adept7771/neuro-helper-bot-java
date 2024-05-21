@@ -10,7 +10,7 @@ public class Settings {
     public static final String USERS_FILE = "users.txt";
     public static final String LOG_FILE = "log.txt";
 
-    public static final String BOT_TOKEN = "7062023995:AAEpyDPS7mtnmkLDI6zhAJX10cBwlb8C4_0";
+    public static final String BOT_TOKEN = "";
 
 
     public static final long USER_SESSION_TIMEOUT = 30L;
